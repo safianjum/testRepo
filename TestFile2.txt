@@ -1,0 +1,5 @@
+This is line 1 of file 2
+
+And this is line 2 of file 2
+
+This is a new line in file 2
