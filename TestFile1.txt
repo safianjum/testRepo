@@ -1,3 +1,2 @@
 This is line 1
 And this is line 2
-now i add line 3
